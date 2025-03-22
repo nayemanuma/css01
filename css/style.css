@@ -1,0 +1,56 @@
+h4{  
+   color: black;
+   background-color: silver;
+   width: 40%;
+}
+h1{
+     color: whitesmoke;
+     margin: 20px;
+}
+.Life-lesson1{
+     background-color: crimson;
+}
+h5{
+     color: darkred;
+     background-color: silver;
+}
+.border{
+     border: 5px dotted blue;
+}
+#head1{
+     font-size: 30px;
+     color: beige;
+}
+.box{
+     width: 50pt;
+     height: 50px;
+     background-color: goldenrod;
+     padding: 50px;
+
+}
+h2{
+     color: goldenrod;
+     background-color: black;
+     width: 20rem;
+}
+.box1{
+     color: white;
+     background-color: red;
+     text-align: center;
+     margin: 20px;
+
+}
+.box2{
+     color: white;
+     background-color: orange;
+     text-align: center;
+     border: 4px dashed black;
+     margin: 20px;
+}
+
+.box3{
+     color: white;
+     background-color: yellow;
+     text-align: center;
+     margin: 20px;
+
